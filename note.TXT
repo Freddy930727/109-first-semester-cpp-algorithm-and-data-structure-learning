@@ -1,0 +1,34 @@
+etc:
+~bubble sort 
+~merge sort
+~queue
+~stack
+二分搜尋法
+
+sort:
+~apcs 1050305 1(zj b964) b964 v2
+~apcs 1050305 3 zj b966
+~uva 10474 zj541
+~uva 10107 zj c010
+~uva 11462 zj d190
+uva10763
+
+linear structure:
+ uva12100	     unknown problem 
+~uva10935 zj e155
+<uva673 zj b304 有問題
+<uva12207 killed
+
+tree structure:
+ uva112
+ zj b518
+ zj b517
+ uva536 zj c126
+uva10701
+uva548
+uva839
+uva679
+uva699
+uva122
+uva297
+
